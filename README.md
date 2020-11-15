@@ -18,6 +18,27 @@ We are interested in all kinds of feedback on our upcoming features. Please comm
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
+
+## FAQs
+**Q: Why did you create this?**
+A: We want to make sure that, during our preview period, we continue to build and deliver features that are important for our customers. We have a large roadmap and we want to rely on customer input to prioritize the features, as well as to design and deliver them in a way that will work
+
+**Q: What is AWS Proton?**
+A: AWS Proton is an application delivery service. See aws.amazon.com/proton.
+
+**Q: Why are there no dates on your roadmap?**
+A: Because job zero is security and operational stability, we can't provide specific target dates for features.
+
+**Q: Will you build everything here?**
+A: We intend to investigate and priorotize all features here. We can't commit to delivering any feature or in any specific timeline.
+
+**Q: How can I provide feedback or ask for more information?**
+Please open an issue!
+
+**Q: How can I request a feature be added to the roadmap?**
+A: Please open an issue!  You can read about how to contribute [here](/CONTRIBUTING.md). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+
+
 ## License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
