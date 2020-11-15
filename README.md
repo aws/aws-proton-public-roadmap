@@ -1,11 +1,18 @@
-## My Project
+## AWS Proton
 
-TODO: Fill this README out!
+This is the public roadmap for AWS Proton.
 
-Be sure to:
+AWS Proton is an application delivery service, currently available in public preview at aws.amazon.com/proton
 
-* Change the title in this README
-* Edit your repository description on GitHub
+
+## Introduction
+
+This is the public roadmap for AWS Proton.
+
+AWS Proton is current in public preview. We are continuing to work in new features to deliver during this preview period. We want to use this roadmap to help our customers understand upcoming features that can be tried and give feedback on them.
+
+We are interested in all kinds of feedback on our upcoming features. Please comment on whether or not each idea would help start using AWS Proton in your organization and standardize infrastructure.
+
 
 ## Security
 
