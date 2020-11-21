@@ -13,6 +13,8 @@ AWS Proton is current in public preview. We are continuing to work in new featur
 
 We are interested in all kinds of feedback on our upcoming features. Please comment on whether or not each idea would help start using AWS Proton in your organization and standardize infrastructure.
 
+This is an experimental public roadmap for a new service. We will continue to improve how we manage and organize this roadmap over time, based on input from customers that engage in it. If you have any suggestion on how to improve this process, please open an issue with your comments!
+
 
 ## Security
 
