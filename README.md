@@ -34,6 +34,9 @@ A: Because job zero is security and operational stability, we can't provide spec
 **Q: Will you build everything here?**
 A: We intend to investigate and priorotize all features here. We can't commit to delivering any feature or in any specific timeline.
 
+**Q: Is this roadmap prioritized?**
+A: No. Any item here is being investigated or worked on, but we can't commit to a priority list at this point.
+
 **Q: How can I provide feedback or ask for more information?**
 Please open an issue!
 
