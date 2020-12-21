@@ -1,3 +1,5 @@
+NOTE: This roadmap will be unattended 12/21/2020 to 1/5/2021. Please feel free to continue opening issues and leaving comments, but note that they won't be answered until 1/5. Thank you!
+
 ## AWS Proton
 
 This is the public roadmap for AWS Proton.
