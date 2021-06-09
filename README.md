@@ -2,7 +2,7 @@
 
 This is the public roadmap for AWS Proton.
 
-AWS Proton is an application delivery service, currently available in public preview at aws.amazon.com/proton
+AWS Proton is an application delivery service, available at aws.amazon.com/proton
 
 
 ## Introduction
