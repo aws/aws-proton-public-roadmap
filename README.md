@@ -7,9 +7,7 @@ AWS Proton is an application delivery service, available at aws.amazon.com/proto
 
 ## Introduction
 
-This is the public roadmap for AWS Proton.
-
-AWS Proton is current in public preview. We are continuing to work in new features to deliver during this preview period. We want to use this roadmap to help our customers understand upcoming features that can be tried and give feedback on them.
+This is the public roadmap for AWS Proton. We want to use this roadmap to help our customers understand upcoming features that can be tried and give feedback on them.
 
 We are interested in all kinds of feedback on our upcoming features. Please comment on whether or not each idea would help start using AWS Proton in your organization and standardize infrastructure.
 
